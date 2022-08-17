@@ -1,0 +1,14 @@
+.nft_wrp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: blueviolet;
+    flex-direction: column;
+}
+.allNfts {
+display: flex;
+}
+.nfts_values {
+padding: 20px;
+}
